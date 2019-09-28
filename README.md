@@ -86,5 +86,5 @@ public function routeNotificationForSms()
 }
 ```
 
-## Conterbuter
+## Contributor
 * Mohammad Hosseini <webp1995@gmail.com> 
